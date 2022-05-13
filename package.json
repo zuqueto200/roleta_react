@@ -2,7 +2,7 @@
   "name": "roleta",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://zuqueto200.github.io/roleta_react/",
+  "homepage": "https://zuqueto200.github.io/roleta_react",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.2.0",
