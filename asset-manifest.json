@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/roleta_react/static/css/main.5079ee78.css",
+    "main.js": "/roleta_react/static/js/main.b3fcbfe7.js",
+    "static/media/roda.png": "/roleta_react/static/media/roda.acf37e2b8b56106971b0.png",
+    "index.html": "/roleta_react/index.html",
+    "main.5079ee78.css.map": "/roleta_react/static/css/main.5079ee78.css.map",
+    "main.b3fcbfe7.js.map": "/roleta_react/static/js/main.b3fcbfe7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5079ee78.css",
+    "static/js/main.b3fcbfe7.js"
+  ]
+}
